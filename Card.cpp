@@ -1,4 +1,4 @@
-/* Orel Shalom 315532101 */
+/* Orel Shalom */
 
 #include "Card.h"
 //#define RANDOM
