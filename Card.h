@@ -1,4 +1,4 @@
-/* Orel Shalom 315532101 */
+/* Orel Shalom */
 
 #ifndef CARD_H
 #define CARD_H
